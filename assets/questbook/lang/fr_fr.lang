@@ -4,19 +4,19 @@ omnifactory.quest.line.0.desc=Gregtech Bas voltage (LV): Commencer à créer vot
 
 # line 1
 omnifactory.quest.line.1.title=Early Game
-omnifactory.quest.line.1.desc=Gregtech Medium Voltage Tier: new machines and rudimentary ore processing.%n%nOrganic Chemistry for §6Plastics§r, and build a §3Distillation Tower§r.%n%n§bApplied Energistics 2§r automation. Explore §bActually Additions§r.
+omnifactory.quest.line.1.desc=Gregtech Moyen Voltage (MV) : de nouvelles machines et .%n%nChimie organique pour des §6Plastics§r, Et construire une §3Distillation Tower§r.%n%nAutomatisation avec §bApplied Energistics 2§r. Exploration de §bActually Additions§r.
 
 # line 2
 omnifactory.quest.line.2.title=Mid Game
-omnifactory.quest.line.2.desc=Gregtech High Voltage, Extreme Voltage, and Insane Voltage tiers:%n%n§6§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §9Cetane Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
+omnifactory.quest.line.2.desc=Gregtech Haut Voltage (HV) , Extrême Voltage (EV), et Incroyable Voltage (IV) :%n%n§6§3Cryogenic Distillation§r, et petro-chimie pour de l'§6Epoxy§r et du §9Cetane Diesel§r.%n%nFabriqué des §6Nether Stars§r et débloqué les machines §bThermal Expansion§r .%n%nConstruire un réacteur à fission de§b NuclearCraft§r pour obtenir de nouveau materiaux.%n%nConstruire une station spacial et un Warp Core.
 
 # line 3
 omnifactory.quest.line.3.title=Progression
-omnifactory.quest.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Omnifactory§r.%n%nCircuits are the primary measure of your progress.
+omnifactory.quest.line.3.desc=Il est toujours satisfaisant de faire quelques pas en avant.%n%nCet onglet délimite la progression générale de §5Omnifactory§r.%n%nLes circuits sont la mesure de progrès principale.
 
 # line 4
 omnifactory.quest.line.4.title=Late Game
-omnifactory.quest.line.4.desc=GregTech LuV, ZPM, and UV tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
+omnifactory.quest.line.4.desc=GregTech LuV, ZPM, et UV :%n%nConstruire des §3Assembly Lines§r, §3Fusion Reactors§r, et plus encore!%n%nAutomatisation avec style à l'aide de §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
 
 # line 5
 omnifactory.quest.line.5.title=End Game
