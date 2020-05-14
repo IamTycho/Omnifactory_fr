@@ -1,2 +1,2 @@
 # Omnifactory_fr
- Traduction française deu modpack Omnifactory
+ Traduction française du modpack Omnifactory
