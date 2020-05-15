@@ -1,6 +1,6 @@
 # line 0
 omnifactory.quest.line.0.title=Le Commencement
-omnifactory.quest.line.0.desc=Gregtech Bas voltage (LV): Commencer à créer votre usine!%n%nGénéré des ressources avec §bDeep Mob Learning§r.%n%nMonté un §3Electric Blast Furnace§r Pour traité des materiaux avancés et faire des alliages.%n%nDébut de §bEnderIO§r et stockage numérique avec §bApplied Energistics 2§r .
+omnifactory.quest.line.0.desc=Gregtech Bas voltage (LV): Commencez à créer votre usine!%n%nGénéré des ressources avec §bDeep Mob Learning§r.%n%nMonté un §3Electric Blast Furnace§r Pour traité des materiaux avancés et faire des alliages.%n%nDébut de §bEnderIO§r et stockage numérique avec §bApplied Energistics 2§r .
 
 # line 1
 omnifactory.quest.line.1.title=Early Game
@@ -12,23 +12,23 @@ omnifactory.quest.line.2.desc=Gregtech Haut Voltage (HV) , Extrême Voltage (EV)
 
 # line 3
 omnifactory.quest.line.3.title=Progression
-omnifactory.quest.line.3.desc=Il est toujours satisfaisant de faire quelques pas en avant.%n%nCet onglet délimite la progression générale de §5Omnifactory§r.%n%nLes circuits sont la mesure de progrès principale.
+omnifactory.quest.line.3.desc=C'est toujours satisfaisant d'avancer un peu.%n%nCet onglet délimite la progression générale de §5Omnifactory§r.%n%nLes circuits sont la mesure de progrès principale.
 
 # line 4
 omnifactory.quest.line.4.title=Late Game
-omnifactory.quest.line.4.desc=GregTech LuV, ZPM, et UV :%n%nConstruire des §3Assembly Lines§r, §3Fusion Reactors§r, et plus encore!%n%nAutomatisation avec style à l'aide de §bPackagedAuto§r. Grimper les niveaux de §6Micro Miners§r.%n%n  §bDraconic Evolution§r for fusion crafting and energy storage.
+omnifactory.quest.line.4.desc=GregTech LuV, ZPM, et UV :%n%nConstruire des §3Assembly Lines§r, §3Fusion Reactors§r, et plus encore!%n%nAutomatisation avec style à l'aide de §bPackagedAuto§r. Grimper les niveaux de §6Micro Miners§r.%n%n fabrication par fusion et stockage d'énergie par §bDraconic Evolution§r  .
 
 # line 5
 omnifactory.quest.line.5.title=End Game
-omnifactory.quest.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Vending Upgrade§r.
+omnifactory.quest.line.5.desc=Vous entrez dans la phase finale...%n%nRécolté des microvers entier et débloqué le §dCreative Portable Tank§r.%n%nLancez l'ultime défi à votre automatisation alors que progressez vers le but ultime: la §dCreative Vending Upgrade§r.
 
 # line 6
-omnifactory.quest.line.6.title=Genesis
-omnifactory.quest.line.6.desc=Welcome to §5Omnifactory§r, I'll be your guide.
+omnifactory.quest.line.6.title=Genèse
+omnifactory.quest.line.6.desc=Bienvenu sur §5Omnifactory§r, je serais votre guide.
 
 # line 7
-omnifactory.quest.line.7.title=Into The Microverse
-omnifactory.quest.line.7.desc=Get your feet wet with §bExtra Utilities§r and §bExtended Crafting§r.%n%nConquer The End or invest in §bEnderIO §rfor teleportation technologies.%n%nBuild a rocket and go to the Moon (or don't, but it's fun).%n%nEither way, it's time to start mining §emicroverses§r.
+omnifactory.quest.line.7.title=Dans le Microverse
+omnifactory.quest.line.7.desc=Get your feet wet with §bExtra Utilities§r and §bExtended Crafting§r.%n%nConquérez l'End ou invertissez dans la technologie de téléportation d'§bEnderIO §r.%n%nConstruisez une fusée et allez sur la Lune (ou pas, mais c'est amusant).%n%nDans tous les cas, il est temp de commencer à miner des §emicroverses§r.
 
 # db 0
 omnifactory.quest.db.0.title=Charging Quartz
@@ -432,19 +432,19 @@ omnifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested
 
 # db 100
 omnifactory.quest.db.100.title=Engineering Processor
-omnifactory.quest.db.100.desc=§6Engineering Processors§r are made from a §6Diamond Plate§r, a §6Silicon Plate§r, and any tier one circuit.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Engineering Processor.
+omnifactory.quest.db.100.desc=Les §6Engineering Processors§r sont fait à partir d'une §6Diamond Plate§r, une §6Silicon Plate§r, et n'importe quel circuit tier 1.%n%nPassez les plate dans les bons §3Inscribers§r respectivement avec des §aPresses§r pour faire les printed plates, puis combinez les plates et le circuit pour former l'Engineering Processor.
 
 # db 101
-omnifactory.quest.db.101.title=Digital Storage For Days
-omnifactory.quest.db.101.desc=*Slaps §6ME Drive§r* this bad boy can fit so many §6Storage Cells§r in it!%n%nWith ten slots for Storage Cells, you can store a huge amount of items inside this single block, and search through them all with a §6Terminal§r. You just gotta make all those Storage Cells.%n%nIf you somehow run out of room, you can make another ME Drive for even more slots! So many cells, so many items!
+omnifactory.quest.db.101.title=Stockage digital de l'infini
+omnifactory.quest.db.101.desc=*Donne une tappe sur le §6ME Drive§r* Tu peux mettre tellement de §6Storage Cells§r dans cet bel bête!%n%nAvec dix emplacements pour des Storage Cells, vous pouvez stocker une enorme quantité d'objet dans un seul block, et chercher selon vos besoin à l'aide d'un §6Terminal§r. il vous suffis juste de faire toutes les Storage Cells.%n%nSi par un quelconque hasar vous venez à manquer d'espace, vous pouvez faire un autre ME Drive pour encore plus d'emplacements! Tellement de cells, tellement d'objets!
 
 # db 102
 omnifactory.quest.db.102.title=Logic Processor
-omnifactory.quest.db.102.desc=§6Logic Processors§r are made from a §6Gold Plate§r, a §6Silicon Plate§r, and any tier one circuit.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Logic Processor.
+omnifactory.quest.db.102.desc=Les §6Logic Processors§r sont fait à partir d'un §6Gold Plate§r, une §6Silicon Plate§r, et n'importe quel circuit tier 1.%n%nPassez les plate dans les bons §3Inscribers§r respectivement avec des §aPresses§r pour faire les printed plates, puis combinez les plates et le circuit pour former le Logic Processor.
 
 # db 103
 omnifactory.quest.db.103.title=Inscription Plates
-omnifactory.quest.db.103.desc=§aPresses§r are needed for §3Inscribers§r.%n%nIf you like exploring you can find them in meteors with a §aMeteor Compass§r.%n%nIf you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a §3Precision Laser Engraver§r.
+omnifactory.quest.db.103.desc=Des §apresses§r sont nécessaire pour faire fonctionner les §3Inscribers§r.%n%nSi vous aimez l'exploration vous pouvez les trouver à l'aide d'un §aMeteor Compass§r.%n%nIf you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a §3Precision Laser Engraver§r.
 
 # db 104
 omnifactory.quest.db.104.title=Autocrafting Patterns
