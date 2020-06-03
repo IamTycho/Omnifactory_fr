@@ -448,7 +448,7 @@ omnifactory.quest.db.103.desc=Des §apresses§r sont nécessaire pour faire fonc
 
 # db 104
 omnifactory.quest.db.104.title=Patterns de fabrication automatique
-omnifactory.quest.db.104.desc=Les §aPatterns§r sont utilisés pour des recettes de fabrication sur atelier ou via des machines pour de la fabrication à la demande avec §bApplied Energistics§r.%n%nEncodez les avec un §aPattern Terminal§r.%n%nNote: les recettes encodées avec Substitutions activées utiliseront des objets équivalent déja présent sur le réseau, mais fabriqueront automatiquement §euniquement l'objet exacte préciser dans la recette.§r%n%nIt is also a §cvery bad idea§r to encode recipes that require GregTech hand tools (even worse avec Substitutions on). They are not handled gracefully, causing vousr crafting computations to explode in complexity and memory requirement.%n%nUse recipes that use machines instead!%n%n
+omnifactory.quest.db.104.desc=Les §aPatterns§r sont utilisés pour des recettes de fabrication sur atelier ou via des machines pour de la fabrication à la demande avec §bApplied Energistics§r.%n%nEncodez les avec un §aPattern Terminal§r.%n%nNote: les recettes encodées avec Substitutions activées utiliseront des objets équivalent déja présent sur le réseau, mais fabriqueront automatiquement §euniquement l'objet exacte préciser dans la recette.§r%n%nC'est aussi une §ctrès mauvaise idée§r d'encoder recettes necessitant des outils GregTech (encore pire avec les Substitutions activées). They are not handled gracefully, causing vousr crafting computations to explode in complexity and memory requirement.%n%nUse recipes that use machines instead!%n%n
 
 # db 105
 omnifactory.quest.db.105.title=Calculation Processor
